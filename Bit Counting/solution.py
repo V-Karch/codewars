@@ -1,0 +1,1 @@
+count_bits = lambda x: bin(x).count("1")
