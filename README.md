@@ -2,6 +2,9 @@
 
 This is the reason for doing each problem in at least 3 different languages. I may still do the problems in languages I am familiar with so I can get a better understanding of how to solve the problem in another language, with presumably less tools available to me.
 
+## Contributing
+Contributing info can be found here: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## Current Language Spread as of this commit
 
 ----------------------------------------
