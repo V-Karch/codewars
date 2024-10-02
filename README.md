@@ -13,7 +13,6 @@ Contributing info can be found here: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Rust: 1498 bytes
 - Go: 1238 bytes
 - C: 1216 bytes
-- Shell: 888 bytes
 - R: 783 bytes
 - Fortran: 776 bytes
 - C++: 689 bytes
@@ -23,5 +22,4 @@ Contributing info can be found here: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Ruby: 356 bytes
 - Swift: 318 bytes
 - Lua: 243 bytes
-
-Total bytes of code: 12042 bytes
+Total bytes of code: 11154 bytes
