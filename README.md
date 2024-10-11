@@ -22,4 +22,5 @@ Contributing info can be found here: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Ruby: 356 bytes
 - Swift: 318 bytes
 - Lua: 243 bytes
+
 Total bytes of code: 12044 bytes
