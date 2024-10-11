@@ -10,16 +10,16 @@ Contributing info can be found here: [CONTRIBUTING.md](CONTRIBUTING.md)
 ----------------------------------------
 
 - Java: 2288 bytes
-- Rust: 1498 bytes
+- Rust: 1784 bytes
+- C: 1629 bytes
 - Go: 1238 bytes
-- C: 1216 bytes
+- Python: 816 bytes
 - R: 783 bytes
 - Fortran: 776 bytes
 - C++: 689 bytes
 - Erlang: 660 bytes
-- Python: 625 bytes
 - C#: 464 bytes
 - Ruby: 356 bytes
 - Swift: 318 bytes
 - Lua: 243 bytes
-Total bytes of code: 11154 bytes
+Total bytes of code: 12044 bytes
